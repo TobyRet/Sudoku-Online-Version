@@ -4,14 +4,17 @@
 		<title>Sudoku Game</title>
 		<link href = "/stylesheets/application.css" rel="stylesheet" type="text/css" >
 	</head>
-
 	<body>
     <h1>Sudoku</h1>
     <div id="flash">
       <%= flash[:notice] %>
     </div>
+    <!--<form action="/difficulty" method="post" >
+      <button name="difficulty" value="easy" >Easy game</button> 
+      <button name="difficulty" value="medium" >Hard game</button> 
+    </form>-->
     <form action="/" method="post" >
-      <div id="Sudoku Fury">
+      <div id="sudoku">
         <!-- one div for each row -->
         <% 3.times do |row| %>
           <div class='row'>
@@ -24,7 +27,7 @@
                     <% 3.times do |cell| %>
                       <div class="cell">
                         <%= partial :cell, :locals=>{:cell_index => row*27+box*3+cell_row*9+cell} %>
-                      </div>div>
+                      </div>
                     <% end %>
                   </div>
                 <% end %>

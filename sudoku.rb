@@ -19,9 +19,7 @@ end
 
 # this session removes some digits from the solution to create a puzzle
 def puzzle(sudoku)
-  puzzle = sudoku
-  40.times { puzzle[rand(1..80)] = "0" }
-  puzzle
+  sudoku.map { |x| rand(1..4) == 1 ? "0" : x }
 end
 
 def box_order_to_row_order(cells)
@@ -47,7 +45,7 @@ def generate_new_puzzle_if_necessary
 end
 
 def prepare_to_check_solution
-  @check_solution = session[:check_solution]
+  @check_solution = session[:check_solution] # first time round equals nil else see line 96
   if @check_solution
     flash[:notice] = "Ha, ha, ha. Fool! See those yellow cells? You got those ones wrong. Fix them now."
   end
@@ -68,9 +66,18 @@ get '/solution' do
   erb :index
 end
 
+#post '/difficulty' do
+#  sudoku = random_sudoku
+#  session[:easy] = easy_puzzle(sudoku) 
+#  session[:hard] = hard_puzzle(sudoku)
+#  @current_solution = session[:easy] 
+#  @current_solution = session[:hard] 
+#  erb :index
+#end
+
 post '/' do
   cells = params['cell'] 
-  session[:current_solution] = cells.map{|value| value.to_i }.join
+  session[:current_solution] = box_order_to_row_order(cells)
   session[:check_solution] = true
   redirect to("/")
 end
