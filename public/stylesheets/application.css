@@ -17,6 +17,10 @@ div.box {
 	text-align: center;
 }
 
+div.row {
+	font-size: 0;
+}
+
 body {
 	text-align: center;
 	font-family: Arial;

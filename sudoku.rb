@@ -1,6 +1,10 @@
 require 'sinatra'
 require_relative './lib/sudoku'
 require_relative './lib/cell'
+require_relative './helpers/application.rb'
+#require 'sinatra/partial' 
+
+#set :partial_template_engine, :erb
 
 enable :sessions
 
@@ -13,7 +17,8 @@ end
 
 # this session removes some digits from the solution to create a puzzle
 def puzzle(sudoku)
-  puzzle = 20.times { sudoku[rand(0..80)] = "0" }
+  puzzle = sudoku
+  40.times { puzzle[rand(1..80)] = "0" }
   puzzle
 end
 
@@ -59,28 +64,8 @@ get '/solution' do
 end
 
 post '/' do
-  cells = params["cell"] 
+  cells = params['cell'] 
   session[:current_solution] = cells.map{|value| value.to_i }.join
   session[:check_solution] = true
   redirect to("/")
-end
-
-helpers do
-
-  def colour_class(solution_to_check, puzzle_value, current_solution_value, solution_value)
-    must_be_guessed = puzzle_value == 0
-    tried_to_guess = current_solution_value.to_i != 0
-    guessed_incorrectly = current_solution_value != solution_value
-
-    if solution_to_check && must_be_guessed && tried_to_guess && guessed_incorrectly
-      'incorrect'
-    elsif !must_be_guessed
-      'value-provided'
-    end
-  end
-
-  def cell_value(value)
-    value.to_i == 0 ? '' : value
-  end
-
 end
