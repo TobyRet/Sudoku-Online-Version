@@ -8,6 +8,7 @@ require 'rack-flash'
 use Rack::Flash
 
 enable :sessions
+set :session_secret, "Your face is gross, you eat white toast"
 
 def random_sudoku
   seed = (1..9).to_a.shuffle + Array.new(81-9, 0)
