@@ -3,6 +3,10 @@ div.box, div.cell {
 }
 
 div.box {
+	outline: 2px solid black;
+}
+
+div.cell {
 	outline: 1px solid black;
 }
 
@@ -12,8 +16,10 @@ div.box {
 
 
 .cell input {
-	width: 30px;
-	height: 30px;
+	width: 40px;
+	height: 40px;
+	font-size: 20px;
+	text-align: center;
 }
 
 #sudoku {
@@ -28,12 +34,17 @@ div.row {
 body {
 	text-align: center;
 	font-family: Arial;
+	background-color: #2ecc71;
 }
 
 .incorrect {
-	background-color: yellow;
+	background-color: #f1c40f;
 }
 
 .value-provided {
-	background-color: #DDD;
+	background-color: #bdc3c7;
+}
+
+button {
+	margin-top: 20px;
 }
