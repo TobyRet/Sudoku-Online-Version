@@ -28,3 +28,11 @@ I, [2014-03-19T14:30:22.198487 #656]  INFO -- : 0:  tilt (1.4.1) from /Users/tob
 I, [2014-03-19T14:30:22.200736 #656]  INFO -- : 0:  sinatra (1.4.4) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
 I, [2014-03-19T14:30:22.201093 #656]  INFO -- : 0:  sinatra-partial (0.4.0) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/sinatra-partial-0.4.0.gemspec
 I, [2014-03-19T14:30:22.201369 #656]  INFO -- : 0:  bundler (1.5.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
+I, [2014-03-19T14:59:58.650732 #818]  INFO -- : 0:  rack (1.5.2) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-19T14:59:58.651127 #818]  INFO -- : 0:  rack-flash3 (1.0.5) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rack-flash3-1.0.5.gemspec
+I, [2014-03-19T14:59:58.651517 #818]  INFO -- : 0:  rack-protection (1.5.2) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-19T14:59:58.651840 #818]  INFO -- : 0:  shotgun (0.9) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-03-19T14:59:58.652136 #818]  INFO -- : 0:  tilt (1.4.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-19T14:59:58.652465 #818]  INFO -- : 0:  sinatra (1.4.4) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-19T14:59:58.654749 #818]  INFO -- : 0:  sinatra-partial (0.4.0) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0/specifications/sinatra-partial-0.4.0.gemspec
+I, [2014-03-19T14:59:58.655191 #818]  INFO -- : 0:  bundler (1.5.1) from /Users/tobyretallick/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec

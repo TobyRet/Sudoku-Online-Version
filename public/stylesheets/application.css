@@ -6,6 +6,10 @@ div.box {
 	outline: 1px solid black;
 }
 
+#flash {
+	margin: 20px;
+}
+
 
 .cell input {
 	width: 30px;

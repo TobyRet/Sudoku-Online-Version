@@ -3,8 +3,9 @@ require_relative './lib/sudoku'
 require_relative './lib/cell'
 require_relative './helpers/application.rb'
 require 'sinatra/partial' 
-
 set :partial_template_engine, :erb
+require 'rack-flash'
+use Rack::Flash
 
 enable :sessions
 
@@ -46,6 +47,9 @@ end
 
 def prepare_to_check_solution
   @check_solution = session[:check_solution]
+  if @check_solution
+    flash[:notice] = "Ha, ha, ha. Fool! See those yellow cells? You got those ones wrong. Fix them now."
+  end
   session[:check_solution] = nil
 end
 
