@@ -21,3 +21,11 @@ body {
 	text-align: center;
 	font-family: Arial;
 }
+
+.incorrect {
+	background-color: yellow;
+}
+
+.value-provided {
+	background-color: #DDD;
+}
