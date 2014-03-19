@@ -17,9 +17,9 @@ def random_sudoku
   sudoku.to_s.chars
 end
 
-# this session removes some digits from the solution to create a puzzle
 def puzzle(sudoku)
-  sudoku.map { |x| rand(1..4) == 1 ? "0" : x }
+  level = session[:level] ||= 10
+  sudoku.map { |x| rand(1..level) == level ? "0" : x }
 end
 
 def box_order_to_row_order(cells)
@@ -66,14 +66,11 @@ get '/solution' do
   erb :index
 end
 
-#post '/difficulty' do
-#  sudoku = random_sudoku
-#  session[:easy] = easy_puzzle(sudoku) 
-#  session[:hard] = hard_puzzle(sudoku)
-#  @current_solution = session[:easy] 
-#  @current_solution = session[:hard] 
-#  erb :index
-#end
+post '/difficulty' do
+  session[:current_solution] = nil
+  session[:level] = params[:level].to_i
+  redirect to("/")
+end
 
 post '/' do
   cells = params['cell'] 

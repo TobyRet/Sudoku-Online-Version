@@ -48,3 +48,7 @@ body {
 button {
 	margin-top: 20px;
 }
+
+h1 {
+	font-family: Arial, serif; font-weight: 400;
+}
