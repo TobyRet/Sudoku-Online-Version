@@ -2,9 +2,9 @@ require 'sinatra'
 require_relative './lib/sudoku'
 require_relative './lib/cell'
 require_relative './helpers/application.rb'
-#require 'sinatra/partial' 
+require 'sinatra/partial' 
 
-#set :partial_template_engine, :erb
+set :partial_template_engine, :erb
 
 enable :sessions
 
