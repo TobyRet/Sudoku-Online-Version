@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>Sudoku Game</title>
+		<link href = "/stylesheets/application.css" rel="stylesheet" type="text/css" >
+	</head>
+	<body>
+    <h1>Sudoku</h1>
+    <div id="flash">
+      <%= flash[:notice] %>
+    </div>
+    <form action="/difficulty" method="post" >
+      <button name="level" value="6" >Easy</button> 
+      <button name="level" value="4" >Medium</button> 
+      <button name="level" value="2" >Hard</button> 
+    </form>
+    <form action="/" method="post" >
+      <div id="sudoku">
+        <%= yield %>
+      </div>
+    </form>
+  </body>
+</html>
