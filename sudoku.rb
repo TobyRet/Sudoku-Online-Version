@@ -47,7 +47,7 @@ end
 def prepare_to_check_solution
   @check_solution = session[:check_solution] # first time round equals nil else see line 86
   if @check_solution
-    flash[:notice] = "Ha, ha, ha. Fool! See those yellow cells? You got those ones wrong. Fix them now."
+    flash[:notice] = "Bleedin' hell! See those yellow cells? You got those ones wrong ya mug. Just say the word, oh! Su-Su-Susudoku!"
   end
   session[:check_solution] = nil
 end
@@ -61,13 +61,19 @@ get '/' do
   erb :index
 end
 
+get '/instructions' do 
+  @instructions = true
+  erb :instructions, :layout => :instructions_layout
+end
+
 post '/solution' do
-  #if @check_solution.nil?
-  #  redirect to("/")
-  #else 
-    session[:current_solution] = session[:solution]
-    redirect to("/")
-  #end
+  session[:current_solution] = session[:solution]
+  redirect to("/")
+end
+
+post '/reset' do
+  session[:current_solution] = session[:puzzle]
+  redirect to("/")
 end
 
 post '/difficulty' do

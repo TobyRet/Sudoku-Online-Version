@@ -34,7 +34,8 @@ div.row {
 body {
 	text-align: center;
 	font-family: Arial;
-	background-color: #2ecc71;
+	background-image: url(../images/phil.jpg);
+	background-size: auto 100%;
 }
 
 .incorrect {
@@ -45,6 +46,12 @@ body {
 	background-color: #E3E3E3;
 }
 
+#flash {
+	font-family: 'Droid Sans Mono';
+	margin-left: 35%;
+	margin-right: 35%;
+	background-color: #f1c40f;
+}
 
 h1 {
 	font-family: 'Covered By Your Grace', Arial, cursive;
@@ -69,6 +76,7 @@ h1 {
 .instructions {
 	margin-left: 35%;
 	margin-right: 35%;
+	margin-bottom: 30px;
 	font-family: 'Droid Sans Mono', Arial;
 }
 
