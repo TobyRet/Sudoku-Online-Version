@@ -48,7 +48,7 @@ body {
 
 h1 {
 	font-family: 'Covered By Your Grace', Arial, cursive;
-	font-size: 80px;
+	font-size: 100px;
 	margin-bottom:0px;
 }
 
@@ -56,6 +56,7 @@ h1 {
 	-webkit-appearance: none;
 	height: 30px;
 	font-size: 15px;
+	font-family: font-family: 'Droid Sans Mono';
 	border-radius: 10px;
   color: black; 
   background-color: white; 
@@ -66,8 +67,9 @@ h1 {
 }
 
 .instructions {
-	margin-left: 25%;
-	margin-right: 25%;
+	margin-left: 35%;
+	margin-right: 35%;
+	font-family: 'Droid Sans Mono', Arial;
 }
 
 
