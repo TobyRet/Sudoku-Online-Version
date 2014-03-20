@@ -3,7 +3,7 @@ div.box, div.cell {
 }
 
 div.box {
-	outline: 2px solid #7f8c8d;
+	outline: 2px solid black;
 }
 
 div.cell {
@@ -42,7 +42,7 @@ body {
 }
 
 .value-provided {
-	background-color: #bdc3c7;
+	background-color: #E3E3E3;
 }
 
 button {

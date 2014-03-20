@@ -45,7 +45,7 @@ def generate_new_puzzle_if_necessary
 end
 
 def prepare_to_check_solution
-  @check_solution = session[:check_solution] # first time round equals nil else see line 96
+  @check_solution = session[:check_solution] # first time round equals nil else see line 86
   if @check_solution
     flash[:notice] = "Ha, ha, ha. Fool! See those yellow cells? You got those ones wrong. Fix them now."
   end
@@ -62,8 +62,12 @@ get '/' do
 end
 
 get '/solution' do
-  @current_solution = session[:solution]
-  erb :index
+  if @check_solution.nil?
+    redirect to("/")
+  else 
+    @current_solution = session[:solution]
+    erb :index
+  end
 end
 
 post '/difficulty' do
