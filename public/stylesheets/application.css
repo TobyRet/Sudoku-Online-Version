@@ -45,10 +45,30 @@ body {
 	background-color: #E3E3E3;
 }
 
-button {
+
+h1 {
+	font-family: 'Covered By Your Grace', Arial, cursive;
+	font-size: 80px;
+	margin-bottom:0px;
+}
+
+.button_style { 
+	-webkit-appearance: none;
+	height: 30px;
+	font-size: 15px;
+	border-radius: 10px;
+  color: black; 
+  background-color: white; 
+} 
+
+.button_submit {
 	margin-top: 20px;
 }
 
-h1 {
-	font-family: Arial, serif; font-weight: 400;
+.instructions {
+	margin-left: 25%;
+	margin-right: 25%;
 }
+
+
+
