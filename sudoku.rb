@@ -1,4 +1,5 @@
 require 'sinatra'
+require 'newrelic_rpm'
 require_relative './lib/sudoku'
 require_relative './lib/cell'
 require_relative './helpers/application.rb'
@@ -72,7 +73,7 @@ post '/solution' do
 end
 
 post '/reset' do
-  session[:current_solution] = session[:puzzle]
+  session[:current_solution] = nil
   redirect to("/")
 end
 
