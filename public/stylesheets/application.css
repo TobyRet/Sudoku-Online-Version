@@ -34,8 +34,14 @@ div.row {
 body {
 	text-align: center;
 	font-family: Arial;
-	background-image: url(../images/phil.jpg);
-	background-size: auto 100%;
+}
+
+html { 
+  background: url(../images/phil.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .incorrect {
