@@ -37,7 +37,7 @@ body {
 }
 
 html { 
-  background: url(../images/phil.jpg) no-repeat center center fixed; 
+  background: url(../images/ampsy.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -45,7 +45,7 @@ html {
 }
 
 .incorrect {
-	background-color: #f1c40f;
+	background-color: #FE4164;
 }
 
 .value-provided {
@@ -60,9 +60,15 @@ html {
 }
 
 h1 {
-	font-family: 'Covered By Your Grace', Arial, cursive;
-	font-size: 100px;
+	font-family: 'Nothing You Could Do', Arial, cursive;
+	font-size: 120px;
 	margin-bottom:0px;
+	color: #FE4164;
+	text-shadow:1px 1px #7f8c8d;
+}
+
+a {
+	color: #39FF14;
 }
 
 .button_style { 
