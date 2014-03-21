@@ -1,10 +1,10 @@
 require 'sinatra'
-require 'newrelic_rpm'
-require_relative './lib/sudoku'
-require_relative './lib/cell'
-require_relative './helpers/application.rb'
 require 'sinatra/partial' 
 set :partial_template_engine, :erb
+require 'newrelic_rpm'
+require_relative './lib/sudoku.rb'
+require_relative './lib/cell.rb'
+require_relative './helpers/application.rb'
 require 'rack-flash'
 use Rack::Flash
 
@@ -27,7 +27,7 @@ def box_order_to_row_order(cells)
   boxes = cells.each_slice(9).to_a
   (0..8).to_a.inject([]) {|memo, i|
     first_box_index = i / 3 * 3
-    three_boxes = boxes[first_box_index, 3] # What does this mean.
+    three_boxes = boxes[first_box_index, 3] 
     three_rows_of_three = three_boxes.map do |box|
       row_number_in_a_box = i % 3
       first_cell_in_the_row_index = row_number_in_a_box * 3
@@ -46,9 +46,9 @@ def generate_new_puzzle_if_necessary
 end
 
 def prepare_to_check_solution
-  @check_solution = session[:check_solution] # first time round equals nil else see line 86
-  if @check_solution
-    flash[:notice] = "Bleedin' hell! See those yellow cells? You got those ones wrong ya mug. Just say the word, oh! Su-Su-Susudoku!"
+  @check_solution = session[:check_solution]
+  if @check_solution 
+    flash[:notice] = "See those yellow cells? You got those ones wrong ya mug. Just say the word, oh! Su-Su-Susudoku!"
   end
   session[:check_solution] = nil
 end
@@ -63,7 +63,7 @@ get '/' do
 end
 
 get '/instructions' do 
-  @instructions = true
+  @instructions 
   erb :instructions, :layout => :instructions_layout
 end
 
@@ -73,7 +73,9 @@ post '/solution' do
 end
 
 post '/reset' do
+  session[:check_solution] = false
   session[:current_solution] = nil
+  flash[:notice] = nil
   redirect to("/")
 end
 

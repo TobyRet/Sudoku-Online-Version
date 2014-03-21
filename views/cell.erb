@@ -1,4 +1,3 @@
 <% cell_value = cell_value(@current_solution[cell_index]) %>
-<!-- <% read_only = read_only(@current_solution[cell_index]) %> -->
 <% colour_class = colour_class(@check_solution, @puzzle[cell_index], @current_solution[cell_index], @solution[cell_index]) %>
 <input name="cell[]" type="text" maxlength="1" autocomplete="off" value="<%= cell_value %>"  class="<%= colour_class %>" <%= read_only(@current_solution[cell_index]) %>>
