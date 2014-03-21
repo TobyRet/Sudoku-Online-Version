@@ -24,11 +24,17 @@
         <%= yield %>
       </div>
     </form>
-    <form action="/solution" method="post" >
-      <button class = "button_style button_submit">Show me the answer!</button>
+    <form class="bottom_buttons" action="/solution" method="post" >
+      <button class = "button_style button_submit">Answer</button>
     </form>
-    <form action="/reset" method="post" >
+    <form class="bottom_buttons" action="/reset" method="post" >
       <button class = "button_style button_submit">Reset</button>
+    </form>
+    <form class="bottom_buttons" action="/save" method="post" >
+      <button class = "button_style button_submit">Save</button>
+    </form>
+    <form class="bottom_buttons" action="/load" method="post" >
+      <button class ="button_style button_submit">Load</button>
     </form>
     <div>
       <p class="credits">

@@ -60,7 +60,7 @@ html {
 }
 
 h1 {
-	font-family: 'Nothing You Could Do', Arial, cursive;
+	font-family: 'Nothing You Could Do', cursive;
 	font-size: 120px;
 	margin-bottom:0px;
 	color: #FE4164;
@@ -69,13 +69,14 @@ h1 {
 
 a {
 	color: #39FF14;
+	font-family:'Droid Sans Mono';
 }
 
 .button_style { 
 	-webkit-appearance: none;
 	height: 30px;
 	font-size: 15px;
-	font-family: font-family: 'Droid Sans Mono';
+	font-family:'Droid Sans Mono';
 	border-radius: 10px;
   color: black; 
   background-color: white; 
@@ -85,15 +86,22 @@ a {
 	margin-top: 20px;
 }
 
+.bottom_buttons {
+	display: inline-block;
+}
+
 .instructions {
 	margin-left: 35%;
 	margin-right: 35%;
 	margin-bottom: 30px;
 	font-family: 'Droid Sans Mono', Arial;
+	color: white;
 }
 
 .credits {
 	margin-right: 80%;
+	font-family:'Droid Sans Mono';
+	color: white;
 }
 
 

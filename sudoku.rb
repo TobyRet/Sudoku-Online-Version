@@ -48,7 +48,7 @@ end
 def prepare_to_check_solution
   @check_solution = session[:check_solution]
   if @check_solution 
-    flash[:notice] = "See those yellow cells? You got those ones wrong ya mug. Just say the word, oh! Su-Su-Susudoku!"
+    flash[:notice] = "See those pink cells? You got need to fix those. Just say the word, oh! Su-Su-Susudoku!"
   end
   session[:check_solution] = nil
 end
@@ -89,5 +89,17 @@ post '/' do
   cells = params['cell'] 
   session[:current_solution] = box_order_to_row_order(cells)
   session[:check_solution] = true
+  redirect to("/")
+end
+
+post '/save' do
+  session[:save] = session[:current_solution] 
+  flash[:notice] = "Session saved!"
+  redirect to("/reset")
+end
+
+post '/load' do
+  session[:current_solution] = nil
+  session[:current_solution] = session[:save]
   redirect to("/")
 end
