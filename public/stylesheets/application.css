@@ -1,9 +1,48 @@
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+body {
+	text-align: center;
+	font-family: Arial;
+}
+
+.wrapper {
+	margin: 0 auto;
+}
+
+html { 
+  background: url(../images/ampsy.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+	font-family: 'VT323', Arial;
+	font-size: 70px;
+	color: #9b59b6;
+}
+
+h3 {
+	font-family: 'VT323', Arial;
+	font-size: 40px;
+	color: #39FF14;
+
+}
+
+p {
+	margin-bottom: 10px;
+}
+
+/* ****************Grid******************* */
+
 div.box, div.cell {
 	display: inline-block;
 }
 
 div.box {
-	outline: 2px solid black;
+	outline: 2px solid #7f8c8d;
 }
 
 div.cell {
@@ -20,6 +59,8 @@ div.cell {
 	height: 40px;
 	font-size: 20px;
 	text-align: center;
+	border: none;
+	font-family: 'VT323', Arial;
 }
 
 #sudoku {
@@ -31,19 +72,6 @@ div.row {
 	font-size: 0;
 }
 
-body {
-	text-align: center;
-	font-family: Arial;
-}
-
-html { 
-  background: url(../images/ampsy.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 .incorrect {
 	background-color: #FE4164;
 }
@@ -53,33 +81,43 @@ html {
 }
 
 #flash {
-	font-family: 'Droid Sans Mono';
+	font-family: 'VT323', Arial;
 	margin-left: 35%;
 	margin-right: 35%;
 	background-color: #f1c40f;
 }
 
-h1 {
-	font-family: 'Nothing You Could Do', cursive;
-	font-size: 120px;
-	margin-bottom:0px;
-	color: #FE4164;
-	text-shadow:1px 1px #7f8c8d;
+.main_title {
+	font-family: 'VT323', Arial;
+	font-size: 100px;
+	margin-bottom: 0px;
+	color: #9b59b6;
 }
 
 a {
 	color: #39FF14;
-	font-family:'Droid Sans Mono';
+	font-family: 'VT323', Arial;
+}
+
+.difficulty_nav li {
+	display: inline-block;
+	margin-bottom: 20px;
+}
+
+.button_style:hover {
+	background: #9b59b6;
+	color: white;
+	transition-duration: 0.5s;
 }
 
 .button_style { 
-	-webkit-appearance: none;
+	/*-webkit-appearance: none;*/
 	height: 30px;
-	font-size: 15px;
-	font-family:'Droid Sans Mono';
-	border-radius: 10px;
-  color: black; 
-  background-color: white; 
+	font-size: 20px;
+	font-family: 'VT323', Arial;
+  	color: black; 
+  	background-color: white; 
+  	border: none;
 } 
 
 .button_submit {
@@ -94,15 +132,26 @@ a {
 	margin-left: 35%;
 	margin-right: 35%;
 	margin-bottom: 30px;
-	font-family: 'Droid Sans Mono', Arial;
-	color: white;
+	font-family: 'VT323', Arial;
+	font-size: 20px;
+	color: black;
+}
+
+.instructions_container {
+	background-color: white;
+	font-family: 'VT323', Arial;
+	padding: 20px;
 }
 
 .credits {
 	margin-right: 80%;
-	font-family:'Droid Sans Mono';
+	font-family: 'VT323', Arial;
+	font-size: 1.2em;
 	color: white;
 }
 
+.vid img {
+	width: 100%;
+}
 
 

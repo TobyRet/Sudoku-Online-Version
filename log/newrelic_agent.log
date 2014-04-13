@@ -4322,3 +4322,1212 @@
 [03/21/14 17:14:18 +0000 Tobys-MacBook-Pro-2.local (3006)] INFO : Installing deferred Rack instrumentation
 [03/21/14 17:14:18 +0000 Tobys-MacBook-Pro-2.local (3006)] INFO : Finished instrumentation
 [03/21/14 17:14:18 +0000 Tobys-MacBook-Pro-2.local (3006)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] INFO : Enabling the Request Sampler.
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] INFO : Environment: development
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] INFO : Dispatcher: webrick
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] INFO : Application: My Application
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] INFO : Installing Net instrumentation
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] INFO : Finished instrumentation
+[04/13/14 10:04:05 +0100 Tobys-MacBook-Pro-2.local (18844)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] INFO : Enabling the Request Sampler.
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] INFO : Environment: development
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] INFO : Dispatcher: webrick
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] INFO : Application: My Application
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] INFO : Installing Net instrumentation
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] INFO : Finished instrumentation
+[04/13/14 10:10:17 +0100 Tobys-MacBook-Pro-2.local (18879)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] INFO : Enabling the Request Sampler.
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] INFO : Environment: development
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] INFO : Dispatcher: webrick
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] INFO : Application: My Application
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] INFO : Installing Net instrumentation
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] INFO : Finished instrumentation
+[04/13/14 10:22:05 +0100 Tobys-MacBook-Pro-2.local (18928)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] INFO : Enabling the Request Sampler.
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] INFO : Environment: development
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] INFO : Dispatcher: webrick
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] INFO : Application: My Application
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] INFO : Installing Net instrumentation
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] INFO : Finished instrumentation
+[04/13/14 10:22:27 +0100 Tobys-MacBook-Pro-2.local (18933)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] INFO : Enabling the Request Sampler.
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] INFO : Environment: development
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] INFO : Dispatcher: webrick
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] INFO : Application: My Application
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] INFO : Installing Net instrumentation
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] INFO : Finished instrumentation
+[04/13/14 10:22:57 +0100 Tobys-MacBook-Pro-2.local (18939)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] INFO : Enabling the Request Sampler.
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] INFO : Environment: development
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] INFO : Dispatcher: webrick
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] INFO : Application: My Application
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] INFO : Installing Net instrumentation
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] INFO : Finished instrumentation
+[04/13/14 10:23:37 +0100 Tobys-MacBook-Pro-2.local (18945)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] INFO : Enabling the Request Sampler.
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] INFO : Environment: development
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] INFO : Dispatcher: webrick
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] INFO : Application: My Application
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] INFO : Installing Net instrumentation
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] INFO : Finished instrumentation
+[04/13/14 10:25:20 +0100 Tobys-MacBook-Pro-2.local (18993)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] INFO : Enabling the Request Sampler.
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] INFO : Environment: development
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] INFO : Dispatcher: webrick
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] INFO : Application: My Application
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] INFO : Installing Net instrumentation
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] INFO : Finished instrumentation
+[04/13/14 10:27:11 +0100 Tobys-MacBook-Pro-2.local (19002)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] INFO : Enabling the Request Sampler.
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] INFO : Environment: development
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] INFO : Dispatcher: webrick
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] INFO : Application: My Application
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] INFO : Installing Net instrumentation
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] INFO : Finished instrumentation
+[04/13/14 10:27:33 +0100 Tobys-MacBook-Pro-2.local (19008)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] INFO : Enabling the Request Sampler.
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] INFO : Environment: development
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] INFO : Dispatcher: webrick
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] INFO : Application: My Application
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] INFO : Installing Net instrumentation
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] INFO : Finished instrumentation
+[04/13/14 10:27:47 +0100 Tobys-MacBook-Pro-2.local (19012)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] INFO : Enabling the Request Sampler.
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] INFO : Environment: development
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] INFO : Dispatcher: webrick
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] INFO : Application: My Application
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] INFO : Installing Net instrumentation
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] INFO : Finished instrumentation
+[04/13/14 10:29:05 +0100 Tobys-MacBook-Pro-2.local (19022)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] INFO : Enabling the Request Sampler.
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] INFO : Environment: development
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] INFO : Dispatcher: webrick
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] INFO : Application: My Application
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] INFO : Installing Net instrumentation
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] INFO : Finished instrumentation
+[04/13/14 10:30:20 +0100 Tobys-MacBook-Pro-2.local (19035)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] INFO : Enabling the Request Sampler.
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] INFO : Environment: development
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] INFO : Dispatcher: webrick
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] INFO : Application: My Application
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] INFO : Installing Net instrumentation
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] INFO : Finished instrumentation
+[04/13/14 10:31:31 +0100 Tobys-MacBook-Pro-2.local (19048)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] INFO : Enabling the Request Sampler.
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] INFO : Environment: development
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] INFO : Dispatcher: webrick
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] INFO : Application: My Application
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] INFO : Installing Net instrumentation
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] INFO : Finished instrumentation
+[04/13/14 10:32:14 +0100 Tobys-MacBook-Pro-2.local (19055)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] INFO : Enabling the Request Sampler.
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] INFO : Environment: development
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] INFO : Dispatcher: webrick
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] INFO : Application: My Application
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] INFO : Installing Net instrumentation
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] INFO : Finished instrumentation
+[04/13/14 10:32:41 +0100 Tobys-MacBook-Pro-2.local (19059)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] INFO : Enabling the Request Sampler.
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] INFO : Environment: development
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] INFO : Dispatcher: webrick
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] INFO : Application: My Application
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] INFO : Installing Net instrumentation
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] INFO : Finished instrumentation
+[04/13/14 10:32:42 +0100 Tobys-MacBook-Pro-2.local (19062)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] INFO : Enabling the Request Sampler.
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] INFO : Environment: development
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] INFO : Dispatcher: webrick
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] INFO : Application: My Application
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] INFO : Installing Net instrumentation
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] INFO : Finished instrumentation
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19065)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] INFO : Enabling the Request Sampler.
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] INFO : Environment: development
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] INFO : Dispatcher: webrick
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] INFO : Application: My Application
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] INFO : Installing Net instrumentation
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] INFO : Finished instrumentation
+[04/13/14 10:32:45 +0100 Tobys-MacBook-Pro-2.local (19068)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] INFO : Enabling the Request Sampler.
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] INFO : Environment: development
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] INFO : Dispatcher: webrick
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] INFO : Application: My Application
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] INFO : Installing Net instrumentation
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] INFO : Finished instrumentation
+[04/13/14 10:32:48 +0100 Tobys-MacBook-Pro-2.local (19071)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] INFO : Enabling the Request Sampler.
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] INFO : Environment: development
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] INFO : Dispatcher: webrick
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] INFO : Application: My Application
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] INFO : Installing Net instrumentation
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] INFO : Finished instrumentation
+[04/13/14 10:32:49 +0100 Tobys-MacBook-Pro-2.local (19074)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] INFO : Enabling the Request Sampler.
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] INFO : Environment: development
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] INFO : Dispatcher: webrick
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] INFO : Application: My Application
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] INFO : Installing Net instrumentation
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] INFO : Finished instrumentation
+[04/13/14 10:32:51 +0100 Tobys-MacBook-Pro-2.local (19077)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] INFO : Enabling the Request Sampler.
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] INFO : Environment: development
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] INFO : Dispatcher: webrick
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] INFO : Application: My Application
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] INFO : Installing Net instrumentation
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] INFO : Finished instrumentation
+[04/13/14 10:32:52 +0100 Tobys-MacBook-Pro-2.local (19080)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] INFO : Enabling the Request Sampler.
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] INFO : Environment: development
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] INFO : Dispatcher: webrick
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] INFO : Application: My Application
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] INFO : Installing Net instrumentation
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] INFO : Finished instrumentation
+[04/13/14 10:32:54 +0100 Tobys-MacBook-Pro-2.local (19084)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] INFO : Enabling the Request Sampler.
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] INFO : Environment: development
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] INFO : Dispatcher: webrick
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] INFO : Application: My Application
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] INFO : Installing Net instrumentation
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] INFO : Finished instrumentation
+[04/13/14 10:32:55 +0100 Tobys-MacBook-Pro-2.local (19087)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] INFO : Enabling the Request Sampler.
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] INFO : Environment: development
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] INFO : Dispatcher: webrick
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] INFO : Application: My Application
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] INFO : Installing Net instrumentation
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] INFO : Finished instrumentation
+[04/13/14 10:34:11 +0100 Tobys-MacBook-Pro-2.local (19095)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] INFO : Enabling the Request Sampler.
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] INFO : Environment: development
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] INFO : Dispatcher: webrick
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] INFO : Application: My Application
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] INFO : Installing Net instrumentation
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] INFO : Finished instrumentation
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19100)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] INFO : Enabling the Request Sampler.
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] INFO : Environment: development
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] INFO : Dispatcher: webrick
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] INFO : Application: My Application
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] INFO : Installing Net instrumentation
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] INFO : Finished instrumentation
+[04/13/14 10:34:35 +0100 Tobys-MacBook-Pro-2.local (19103)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] INFO : Enabling the Request Sampler.
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] INFO : Environment: development
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] INFO : Dispatcher: webrick
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] INFO : Application: My Application
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] INFO : Installing Net instrumentation
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] INFO : Finished instrumentation
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19108)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] INFO : Enabling the Request Sampler.
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] INFO : Environment: development
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] INFO : Dispatcher: webrick
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] INFO : Application: My Application
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] INFO : Installing Net instrumentation
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] INFO : Finished instrumentation
+[04/13/14 10:35:13 +0100 Tobys-MacBook-Pro-2.local (19111)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] INFO : Enabling the Request Sampler.
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] INFO : Environment: development
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] INFO : Dispatcher: webrick
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] INFO : Application: My Application
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] INFO : Installing Net instrumentation
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] INFO : Finished instrumentation
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19114)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] INFO : Enabling the Request Sampler.
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] INFO : Environment: development
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] INFO : Dispatcher: webrick
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] INFO : Application: My Application
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] INFO : Installing Net instrumentation
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] INFO : Finished instrumentation
+[04/13/14 10:35:31 +0100 Tobys-MacBook-Pro-2.local (19117)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] INFO : Enabling the Request Sampler.
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] INFO : Environment: development
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] INFO : Dispatcher: webrick
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] INFO : Application: My Application
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] INFO : Installing Net instrumentation
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] INFO : Finished instrumentation
+[04/13/14 10:37:45 +0100 Tobys-MacBook-Pro-2.local (19131)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] INFO : Enabling the Request Sampler.
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] INFO : Environment: development
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] INFO : Dispatcher: webrick
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] INFO : Application: My Application
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] INFO : Installing Net instrumentation
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] INFO : Finished instrumentation
+[04/13/14 10:39:04 +0100 Tobys-MacBook-Pro-2.local (19139)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] INFO : Enabling the Request Sampler.
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] INFO : Environment: development
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] INFO : Dispatcher: webrick
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] INFO : Application: My Application
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] INFO : Installing Net instrumentation
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] INFO : Finished instrumentation
+[04/13/14 10:40:49 +0100 Tobys-MacBook-Pro-2.local (19165)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] INFO : Enabling the Request Sampler.
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] INFO : Environment: development
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] INFO : Dispatcher: webrick
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] INFO : Application: My Application
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] INFO : Installing Net instrumentation
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] INFO : Finished instrumentation
+[04/13/14 10:45:00 +0100 Tobys-MacBook-Pro-2.local (19190)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] INFO : Enabling the Request Sampler.
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] INFO : Environment: development
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] INFO : Dispatcher: webrick
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] INFO : Application: My Application
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] INFO : Installing Net instrumentation
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] INFO : Finished instrumentation
+[04/13/14 10:45:32 +0100 Tobys-MacBook-Pro-2.local (19195)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] INFO : Enabling the Request Sampler.
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] INFO : Environment: development
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] INFO : Dispatcher: webrick
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] INFO : Application: My Application
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] INFO : Installing Net instrumentation
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] INFO : Finished instrumentation
+[04/13/14 10:45:49 +0100 Tobys-MacBook-Pro-2.local (19201)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] INFO : Enabling the Request Sampler.
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] INFO : Environment: development
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] INFO : Dispatcher: webrick
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] INFO : Application: My Application
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] INFO : Installing Net instrumentation
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] INFO : Finished instrumentation
+[04/13/14 10:46:05 +0100 Tobys-MacBook-Pro-2.local (19206)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] INFO : Enabling the Request Sampler.
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] INFO : Environment: development
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] INFO : Dispatcher: webrick
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] INFO : Application: My Application
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] INFO : Installing Net instrumentation
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] INFO : Finished instrumentation
+[04/13/14 10:46:29 +0100 Tobys-MacBook-Pro-2.local (19211)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] INFO : Enabling the Request Sampler.
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] INFO : Environment: development
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] INFO : Dispatcher: webrick
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] INFO : Application: My Application
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] INFO : Installing Net instrumentation
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] INFO : Finished instrumentation
+[04/13/14 10:47:48 +0100 Tobys-MacBook-Pro-2.local (19219)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] INFO : Enabling the Request Sampler.
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] INFO : Environment: development
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] INFO : Dispatcher: webrick
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] INFO : Application: My Application
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] INFO : Installing Net instrumentation
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] INFO : Finished instrumentation
+[04/13/14 10:49:25 +0100 Tobys-MacBook-Pro-2.local (19228)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] INFO : Enabling the Request Sampler.
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] INFO : Environment: development
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] INFO : Dispatcher: webrick
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] INFO : Application: My Application
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] INFO : Installing Net instrumentation
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] INFO : Finished instrumentation
+[04/13/14 10:49:51 +0100 Tobys-MacBook-Pro-2.local (19234)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] INFO : Enabling the Request Sampler.
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] INFO : Environment: development
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] INFO : Dispatcher: webrick
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] INFO : Application: My Application
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] INFO : Installing Net instrumentation
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] INFO : Finished instrumentation
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19238)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] INFO : Enabling the Request Sampler.
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] INFO : Environment: development
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] INFO : Dispatcher: webrick
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] INFO : Application: My Application
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] INFO : Installing Net instrumentation
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] INFO : Finished instrumentation
+[04/13/14 10:50:00 +0100 Tobys-MacBook-Pro-2.local (19241)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] INFO : Enabling the Request Sampler.
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] INFO : Environment: development
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] INFO : Dispatcher: webrick
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] INFO : Application: My Application
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] INFO : Installing Net instrumentation
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] INFO : Finished instrumentation
+[04/13/14 10:50:32 +0100 Tobys-MacBook-Pro-2.local (19248)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] INFO : Enabling the Request Sampler.
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] INFO : Environment: development
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] INFO : Dispatcher: webrick
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] INFO : Application: My Application
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] INFO : Installing Net instrumentation
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] INFO : Finished instrumentation
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19252)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19255)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19255)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19255)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19255)] INFO : Enabling the Request Sampler.
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19255)] INFO : Environment: development
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19255)] INFO : Dispatcher: webrick
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19255)] INFO : Application: My Application
+[04/13/14 10:50:41 +0100 Tobys-MacBook-Pro-2.local (19255)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:50:42 +0100 Tobys-MacBook-Pro-2.local (19255)] INFO : Installing Net instrumentation
+[04/13/14 10:50:42 +0100 Tobys-MacBook-Pro-2.local (19255)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:50:42 +0100 Tobys-MacBook-Pro-2.local (19255)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:50:42 +0100 Tobys-MacBook-Pro-2.local (19255)] INFO : Finished instrumentation
+[04/13/14 10:50:42 +0100 Tobys-MacBook-Pro-2.local (19255)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] INFO : Enabling the Request Sampler.
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] INFO : Environment: development
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] INFO : Dispatcher: webrick
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] INFO : Application: My Application
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] INFO : Installing Net instrumentation
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] INFO : Finished instrumentation
+[04/13/14 10:51:43 +0100 Tobys-MacBook-Pro-2.local (19262)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] INFO : Enabling the Request Sampler.
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] INFO : Environment: development
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] INFO : Dispatcher: webrick
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] INFO : Application: My Application
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] INFO : Installing Net instrumentation
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] INFO : Finished instrumentation
+[04/13/14 10:52:04 +0100 Tobys-MacBook-Pro-2.local (19267)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] INFO : Enabling the Request Sampler.
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] INFO : Environment: development
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] INFO : Dispatcher: webrick
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] INFO : Application: My Application
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] INFO : Installing Net instrumentation
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] INFO : Finished instrumentation
+[04/13/14 10:52:40 +0100 Tobys-MacBook-Pro-2.local (19273)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] INFO : Enabling the Request Sampler.
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] INFO : Environment: development
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] INFO : Dispatcher: webrick
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] INFO : Application: My Application
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] INFO : Installing Net instrumentation
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] INFO : Finished instrumentation
+[04/13/14 10:53:36 +0100 Tobys-MacBook-Pro-2.local (19280)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] INFO : Enabling the Request Sampler.
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] INFO : Environment: development
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] INFO : Dispatcher: webrick
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] INFO : Application: My Application
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] INFO : Installing Net instrumentation
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] INFO : Finished instrumentation
+[04/13/14 10:53:53 +0100 Tobys-MacBook-Pro-2.local (19284)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] INFO : Enabling the Request Sampler.
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] INFO : Environment: development
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] INFO : Dispatcher: webrick
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] INFO : Application: My Application
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] INFO : Installing Net instrumentation
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] INFO : Finished instrumentation
+[04/13/14 10:54:06 +0100 Tobys-MacBook-Pro-2.local (19289)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] INFO : Enabling the Request Sampler.
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] INFO : Environment: development
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] INFO : Dispatcher: webrick
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] INFO : Application: My Application
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] INFO : Installing Net instrumentation
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] INFO : Finished instrumentation
+[04/13/14 10:54:14 +0100 Tobys-MacBook-Pro-2.local (19294)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] INFO : Enabling the Request Sampler.
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] INFO : Environment: development
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] INFO : Dispatcher: webrick
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] INFO : Application: My Application
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] INFO : Installing Net instrumentation
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] INFO : Finished instrumentation
+[04/13/14 10:55:31 +0100 Tobys-MacBook-Pro-2.local (19302)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:56:10 +0100 Tobys-MacBook-Pro-2.local (19308)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:56:10 +0100 Tobys-MacBook-Pro-2.local (19308)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:56:10 +0100 Tobys-MacBook-Pro-2.local (19308)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:56:10 +0100 Tobys-MacBook-Pro-2.local (19308)] INFO : Enabling the Request Sampler.
+[04/13/14 10:56:10 +0100 Tobys-MacBook-Pro-2.local (19308)] INFO : Environment: development
+[04/13/14 10:56:10 +0100 Tobys-MacBook-Pro-2.local (19308)] INFO : Dispatcher: webrick
+[04/13/14 10:56:10 +0100 Tobys-MacBook-Pro-2.local (19308)] INFO : Application: My Application
+[04/13/14 10:56:10 +0100 Tobys-MacBook-Pro-2.local (19308)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:56:11 +0100 Tobys-MacBook-Pro-2.local (19308)] INFO : Installing Net instrumentation
+[04/13/14 10:56:11 +0100 Tobys-MacBook-Pro-2.local (19308)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:56:11 +0100 Tobys-MacBook-Pro-2.local (19308)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:56:11 +0100 Tobys-MacBook-Pro-2.local (19308)] INFO : Finished instrumentation
+[04/13/14 10:56:11 +0100 Tobys-MacBook-Pro-2.local (19308)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] INFO : Enabling the Request Sampler.
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] INFO : Environment: development
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] INFO : Dispatcher: webrick
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] INFO : Application: My Application
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] INFO : Installing Net instrumentation
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] INFO : Finished instrumentation
+[04/13/14 10:57:49 +0100 Tobys-MacBook-Pro-2.local (19317)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] INFO : Enabling the Request Sampler.
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] INFO : Environment: development
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] INFO : Dispatcher: webrick
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] INFO : Application: My Application
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] INFO : Installing Net instrumentation
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] INFO : Finished instrumentation
+[04/13/14 10:59:22 +0100 Tobys-MacBook-Pro-2.local (19330)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] INFO : Enabling the Request Sampler.
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] INFO : Environment: development
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] INFO : Dispatcher: webrick
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] INFO : Application: My Application
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] WARN : Agent configured not to send data in this environment.
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] INFO : Installing Net instrumentation
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] INFO : Installing Sinatra instrumentation
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] INFO : Installing deferred Rack instrumentation
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] INFO : Finished instrumentation
+[04/13/14 10:59:29 +0100 Tobys-MacBook-Pro-2.local (19333)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] INFO : Enabling the Request Sampler.
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] INFO : Environment: development
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] INFO : Dispatcher: webrick
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] INFO : Application: My Application
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] WARN : Agent configured not to send data in this environment.
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] INFO : Installing Net instrumentation
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] INFO : Installing Sinatra instrumentation
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] INFO : Installing deferred Rack instrumentation
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] INFO : Finished instrumentation
+[04/13/14 11:01:06 +0100 Tobys-MacBook-Pro-2.local (19362)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] INFO : Enabling the Request Sampler.
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] INFO : Environment: development
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] INFO : Dispatcher: webrick
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] INFO : Application: My Application
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] WARN : Agent configured not to send data in this environment.
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] INFO : Installing Net instrumentation
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] INFO : Installing Sinatra instrumentation
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] INFO : Installing deferred Rack instrumentation
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] INFO : Finished instrumentation
+[04/13/14 11:02:35 +0100 Tobys-MacBook-Pro-2.local (19372)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] INFO : Enabling the Request Sampler.
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] INFO : Environment: development
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] INFO : Dispatcher: webrick
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] INFO : Application: My Application
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] WARN : Agent configured not to send data in this environment.
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] INFO : Installing Net instrumentation
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] INFO : Installing Sinatra instrumentation
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] INFO : Installing deferred Rack instrumentation
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] INFO : Finished instrumentation
+[04/13/14 11:03:23 +0100 Tobys-MacBook-Pro-2.local (19380)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] INFO : Enabling the Request Sampler.
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] INFO : Environment: development
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] INFO : Dispatcher: webrick
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] INFO : Application: My Application
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] WARN : Agent configured not to send data in this environment.
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] INFO : Installing Net instrumentation
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] INFO : Installing Sinatra instrumentation
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] INFO : Installing deferred Rack instrumentation
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] INFO : Finished instrumentation
+[04/13/14 11:04:00 +0100 Tobys-MacBook-Pro-2.local (19390)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] INFO : Enabling the Request Sampler.
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] INFO : Environment: development
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] INFO : Dispatcher: webrick
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] INFO : Application: My Application
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] WARN : Agent configured not to send data in this environment.
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] INFO : Installing Net instrumentation
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] INFO : Installing Sinatra instrumentation
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] INFO : Installing deferred Rack instrumentation
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] INFO : Finished instrumentation
+[04/13/14 11:04:22 +0100 Tobys-MacBook-Pro-2.local (19396)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] INFO : Enabling the Request Sampler.
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] INFO : Environment: development
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] INFO : Dispatcher: webrick
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] INFO : Application: My Application
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] WARN : Agent configured not to send data in this environment.
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] INFO : Installing Net instrumentation
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] INFO : Installing Sinatra instrumentation
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] INFO : Installing deferred Rack instrumentation
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] INFO : Finished instrumentation
+[04/13/14 11:06:08 +0100 Tobys-MacBook-Pro-2.local (19404)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 11:06:13 +0100 Tobys-MacBook-Pro-2.local (19407)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 11:06:13 +0100 Tobys-MacBook-Pro-2.local (19407)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 11:06:13 +0100 Tobys-MacBook-Pro-2.local (19407)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 11:06:13 +0100 Tobys-MacBook-Pro-2.local (19407)] INFO : Enabling the Request Sampler.
+[04/13/14 11:06:13 +0100 Tobys-MacBook-Pro-2.local (19407)] INFO : Environment: development
+[04/13/14 11:06:13 +0100 Tobys-MacBook-Pro-2.local (19407)] INFO : Dispatcher: webrick
+[04/13/14 11:06:13 +0100 Tobys-MacBook-Pro-2.local (19407)] INFO : Application: My Application
+[04/13/14 11:06:13 +0100 Tobys-MacBook-Pro-2.local (19407)] WARN : Agent configured not to send data in this environment.
+[04/13/14 11:06:14 +0100 Tobys-MacBook-Pro-2.local (19407)] INFO : Installing Net instrumentation
+[04/13/14 11:06:14 +0100 Tobys-MacBook-Pro-2.local (19407)] INFO : Installing Sinatra instrumentation
+[04/13/14 11:06:14 +0100 Tobys-MacBook-Pro-2.local (19407)] INFO : Installing deferred Rack instrumentation
+[04/13/14 11:06:14 +0100 Tobys-MacBook-Pro-2.local (19407)] INFO : Finished instrumentation
+[04/13/14 11:06:14 +0100 Tobys-MacBook-Pro-2.local (19407)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] INFO : Enabling the Request Sampler.
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] INFO : Environment: development
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] INFO : Dispatcher: webrick
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] INFO : Application: My Application
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] WARN : Agent configured not to send data in this environment.
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] INFO : Installing Net instrumentation
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] INFO : Installing Sinatra instrumentation
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] INFO : Installing deferred Rack instrumentation
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] INFO : Finished instrumentation
+[04/13/14 11:08:28 +0100 Tobys-MacBook-Pro-2.local (19427)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] INFO : Enabling the Request Sampler.
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] INFO : Environment: development
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] INFO : Dispatcher: webrick
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] INFO : Application: My Application
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] WARN : Agent configured not to send data in this environment.
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] INFO : Installing Net instrumentation
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] INFO : Installing Sinatra instrumentation
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] INFO : Installing deferred Rack instrumentation
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] INFO : Finished instrumentation
+[04/13/14 11:09:35 +0100 Tobys-MacBook-Pro-2.local (19448)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] INFO : Enabling the Request Sampler.
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] INFO : Environment: development
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] INFO : Dispatcher: webrick
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] INFO : Application: My Application
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] WARN : Agent configured not to send data in this environment.
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] INFO : Installing Net instrumentation
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] INFO : Installing Sinatra instrumentation
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] INFO : Installing deferred Rack instrumentation
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] INFO : Finished instrumentation
+[04/13/14 14:51:12 +0100 Tobys-MacBook-Pro-2.local (19619)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] INFO : Enabling the Request Sampler.
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] INFO : Environment: development
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] INFO : Dispatcher: webrick
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] INFO : Application: My Application
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] WARN : Agent configured not to send data in this environment.
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] INFO : Installing Net instrumentation
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] INFO : Installing Sinatra instrumentation
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] INFO : Installing deferred Rack instrumentation
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] INFO : Finished instrumentation
+[04/13/14 14:51:31 +0100 Tobys-MacBook-Pro-2.local (19623)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] INFO : Enabling the Request Sampler.
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] INFO : Environment: development
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] INFO : Dispatcher: webrick
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] INFO : Application: My Application
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] WARN : Agent configured not to send data in this environment.
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] INFO : Installing Net instrumentation
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] INFO : Installing Sinatra instrumentation
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] INFO : Installing deferred Rack instrumentation
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] INFO : Finished instrumentation
+[04/13/14 14:53:51 +0100 Tobys-MacBook-Pro-2.local (19634)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 14:54:32 +0100 Tobys-MacBook-Pro-2.local (19640)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 14:54:32 +0100 Tobys-MacBook-Pro-2.local (19640)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 14:54:32 +0100 Tobys-MacBook-Pro-2.local (19640)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 14:54:32 +0100 Tobys-MacBook-Pro-2.local (19640)] INFO : Enabling the Request Sampler.
+[04/13/14 14:54:32 +0100 Tobys-MacBook-Pro-2.local (19640)] INFO : Environment: development
+[04/13/14 14:54:32 +0100 Tobys-MacBook-Pro-2.local (19640)] INFO : Dispatcher: webrick
+[04/13/14 14:54:32 +0100 Tobys-MacBook-Pro-2.local (19640)] INFO : Application: My Application
+[04/13/14 14:54:32 +0100 Tobys-MacBook-Pro-2.local (19640)] WARN : Agent configured not to send data in this environment.
+[04/13/14 14:54:33 +0100 Tobys-MacBook-Pro-2.local (19640)] INFO : Installing Net instrumentation
+[04/13/14 14:54:33 +0100 Tobys-MacBook-Pro-2.local (19640)] INFO : Installing Sinatra instrumentation
+[04/13/14 14:54:33 +0100 Tobys-MacBook-Pro-2.local (19640)] INFO : Installing deferred Rack instrumentation
+[04/13/14 14:54:33 +0100 Tobys-MacBook-Pro-2.local (19640)] INFO : Finished instrumentation
+[04/13/14 14:54:33 +0100 Tobys-MacBook-Pro-2.local (19640)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] INFO : Enabling the Request Sampler.
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] INFO : Environment: development
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] INFO : Dispatcher: webrick
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] INFO : Application: My Application
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] WARN : Agent configured not to send data in this environment.
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] INFO : Installing Net instrumentation
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] INFO : Installing Sinatra instrumentation
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] INFO : Installing deferred Rack instrumentation
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] INFO : Finished instrumentation
+[04/13/14 14:54:46 +0100 Tobys-MacBook-Pro-2.local (19644)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] INFO : Enabling the Request Sampler.
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] INFO : Environment: development
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] INFO : Dispatcher: webrick
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] INFO : Application: My Application
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] WARN : Agent configured not to send data in this environment.
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] INFO : Installing Net instrumentation
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] INFO : Installing Sinatra instrumentation
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] INFO : Installing deferred Rack instrumentation
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] INFO : Finished instrumentation
+[04/13/14 14:55:54 +0100 Tobys-MacBook-Pro-2.local (19661)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] INFO : Enabling the Request Sampler.
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] INFO : Environment: development
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] INFO : Dispatcher: webrick
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] INFO : Application: My Application
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] WARN : Agent configured not to send data in this environment.
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] INFO : Installing Net instrumentation
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] INFO : Installing Sinatra instrumentation
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] INFO : Installing deferred Rack instrumentation
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] INFO : Finished instrumentation
+[04/13/14 14:55:59 +0100 Tobys-MacBook-Pro-2.local (19665)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 14:56:26 +0100 Tobys-MacBook-Pro-2.local (19672)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 14:56:26 +0100 Tobys-MacBook-Pro-2.local (19672)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 14:56:26 +0100 Tobys-MacBook-Pro-2.local (19672)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 14:56:26 +0100 Tobys-MacBook-Pro-2.local (19672)] INFO : Enabling the Request Sampler.
+[04/13/14 14:56:26 +0100 Tobys-MacBook-Pro-2.local (19672)] INFO : Environment: development
+[04/13/14 14:56:26 +0100 Tobys-MacBook-Pro-2.local (19672)] INFO : Dispatcher: webrick
+[04/13/14 14:56:26 +0100 Tobys-MacBook-Pro-2.local (19672)] INFO : Application: My Application
+[04/13/14 14:56:26 +0100 Tobys-MacBook-Pro-2.local (19672)] WARN : Agent configured not to send data in this environment.
+[04/13/14 14:56:27 +0100 Tobys-MacBook-Pro-2.local (19672)] INFO : Installing Net instrumentation
+[04/13/14 14:56:27 +0100 Tobys-MacBook-Pro-2.local (19672)] INFO : Installing Sinatra instrumentation
+[04/13/14 14:56:27 +0100 Tobys-MacBook-Pro-2.local (19672)] INFO : Installing deferred Rack instrumentation
+[04/13/14 14:56:27 +0100 Tobys-MacBook-Pro-2.local (19672)] INFO : Finished instrumentation
+[04/13/14 14:56:27 +0100 Tobys-MacBook-Pro-2.local (19672)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] INFO : Enabling the Request Sampler.
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] INFO : Environment: development
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] INFO : Dispatcher: webrick
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] INFO : Application: My Application
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] WARN : Agent configured not to send data in this environment.
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] INFO : Installing Net instrumentation
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] INFO : Installing Sinatra instrumentation
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] INFO : Installing deferred Rack instrumentation
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] INFO : Finished instrumentation
+[04/13/14 14:56:45 +0100 Tobys-MacBook-Pro-2.local (19676)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] INFO : Enabling the Request Sampler.
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] INFO : Environment: development
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] INFO : Dispatcher: webrick
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] INFO : Application: My Application
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] WARN : Agent configured not to send data in this environment.
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] INFO : Installing Net instrumentation
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] INFO : Installing Sinatra instrumentation
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] INFO : Installing deferred Rack instrumentation
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] INFO : Finished instrumentation
+[04/13/14 14:58:00 +0100 Tobys-MacBook-Pro-2.local (19685)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] INFO : Enabling the Request Sampler.
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] INFO : Environment: development
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] INFO : Dispatcher: webrick
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] INFO : Application: My Application
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] WARN : Agent configured not to send data in this environment.
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] INFO : Installing Net instrumentation
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] INFO : Installing Sinatra instrumentation
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] INFO : Installing deferred Rack instrumentation
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] INFO : Finished instrumentation
+[04/13/14 14:58:32 +0100 Tobys-MacBook-Pro-2.local (19699)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] INFO : Enabling the Request Sampler.
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] INFO : Environment: development
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] INFO : Dispatcher: webrick
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] INFO : Application: My Application
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] WARN : Agent configured not to send data in this environment.
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] INFO : Installing Net instrumentation
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] INFO : Installing Sinatra instrumentation
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] INFO : Installing deferred Rack instrumentation
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] INFO : Finished instrumentation
+[04/13/14 14:59:11 +0100 Tobys-MacBook-Pro-2.local (19709)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] INFO : Enabling the Request Sampler.
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] INFO : Environment: development
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] INFO : Dispatcher: webrick
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] INFO : Application: My Application
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] INFO : Installing Net instrumentation
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] INFO : Finished instrumentation
+[04/13/14 15:00:00 +0100 Tobys-MacBook-Pro-2.local (19717)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] INFO : Enabling the Request Sampler.
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] INFO : Environment: development
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] INFO : Dispatcher: webrick
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] INFO : Application: My Application
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] INFO : Installing Net instrumentation
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] INFO : Finished instrumentation
+[04/13/14 15:00:22 +0100 Tobys-MacBook-Pro-2.local (19727)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] INFO : Enabling the Request Sampler.
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] INFO : Environment: development
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] INFO : Dispatcher: webrick
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] INFO : Application: My Application
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] INFO : Installing Net instrumentation
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] INFO : Finished instrumentation
+[04/13/14 15:02:14 +0100 Tobys-MacBook-Pro-2.local (19763)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] INFO : Enabling the Request Sampler.
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] INFO : Environment: development
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] INFO : Dispatcher: webrick
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] INFO : Application: My Application
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] INFO : Installing Net instrumentation
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] INFO : Finished instrumentation
+[04/13/14 15:02:43 +0100 Tobys-MacBook-Pro-2.local (19773)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] INFO : Enabling the Request Sampler.
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] INFO : Environment: development
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] INFO : Dispatcher: webrick
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] INFO : Application: My Application
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] INFO : Installing Net instrumentation
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] INFO : Finished instrumentation
+[04/13/14 15:03:11 +0100 Tobys-MacBook-Pro-2.local (19785)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] INFO : Enabling the Request Sampler.
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] INFO : Environment: development
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] INFO : Dispatcher: webrick
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] INFO : Application: My Application
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] INFO : Installing Net instrumentation
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] INFO : Finished instrumentation
+[04/13/14 15:03:18 +0100 Tobys-MacBook-Pro-2.local (19789)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] INFO : Enabling the Request Sampler.
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] INFO : Environment: development
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] INFO : Dispatcher: webrick
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] INFO : Application: My Application
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] INFO : Installing Net instrumentation
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] INFO : Finished instrumentation
+[04/13/14 15:04:08 +0100 Tobys-MacBook-Pro-2.local (19802)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] INFO : Enabling the Request Sampler.
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] INFO : Environment: development
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] INFO : Dispatcher: webrick
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] INFO : Application: My Application
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] INFO : Installing Net instrumentation
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] INFO : Finished instrumentation
+[04/13/14 15:07:52 +0100 Tobys-MacBook-Pro-2.local (19826)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] INFO : Enabling the Request Sampler.
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] INFO : Environment: development
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] INFO : Dispatcher: webrick
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] INFO : Application: My Application
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] INFO : Installing Net instrumentation
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] INFO : Finished instrumentation
+[04/13/14 15:09:26 +0100 Tobys-MacBook-Pro-2.local (19864)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] INFO : Enabling the Request Sampler.
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] INFO : Environment: development
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] INFO : Dispatcher: webrick
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] INFO : Application: My Application
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] INFO : Installing Net instrumentation
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] INFO : Finished instrumentation
+[04/13/14 15:11:16 +0100 Tobys-MacBook-Pro-2.local (19893)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] INFO : Enabling the Request Sampler.
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] INFO : Environment: development
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] INFO : Dispatcher: webrick
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] INFO : Application: My Application
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] INFO : Installing Net instrumentation
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] INFO : Finished instrumentation
+[04/13/14 15:11:46 +0100 Tobys-MacBook-Pro-2.local (19899)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] INFO : Enabling the Request Sampler.
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] INFO : Environment: development
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] INFO : Dispatcher: webrick
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] INFO : Application: My Application
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] INFO : Installing Net instrumentation
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] INFO : Finished instrumentation
+[04/13/14 15:12:08 +0100 Tobys-MacBook-Pro-2.local (19903)] INFO : Doing deferred dependency-detection before Rack startup
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] INFO : Starting the New Relic agent in "development" environment.
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] INFO : Reading configuration from config/newrelic.yml
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] INFO : Enabling the Request Sampler.
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] INFO : Environment: development
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] INFO : Dispatcher: webrick
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] INFO : Application: My Application
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] WARN : Agent configured not to send data in this environment.
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] INFO : Installing Net instrumentation
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] INFO : Installing Sinatra instrumentation
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] INFO : Installing deferred Rack instrumentation
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] INFO : Finished instrumentation
+[04/13/14 15:12:16 +0100 Tobys-MacBook-Pro-2.local (19906)] INFO : Doing deferred dependency-detection before Rack startup

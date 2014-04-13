@@ -95,7 +95,7 @@ end
 post '/save' do
   session[:save] = session[:current_solution] 
   flash[:notice] = "Session saved!"
-  redirect to("/reset")
+  redirect to("/")
 end
 
 post '/load' do
