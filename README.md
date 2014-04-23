@@ -1,6 +1,6 @@
 Sudoku Web Version
 ==================
 
-This is the [Makers Academy](http://www.makersacademy.com) Week 5 project.
+This is an online version of the popular game Suduko built created for the [Makers Academy](http://www.makersacademy.com) Week 5 project. The app was built with Ruby and the Sinatra web framework.
 
-Live version up and running on [Heroku](http://su-su-susudoku.herokuapp.com).
+Check out the live version on [Heroku](http://su-su-susudoku.herokuapp.com).
