@@ -10,3 +10,4 @@ The aim was to build my first web app using Sinatra - a DSL for web services. Th
 #### Screenshots
 
 ![](public/images/sudoku1.png)
+
